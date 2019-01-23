@@ -1,0 +1,57 @@
+21.12.2018 16:59:56
+
+Event: Newchannel
+AccountCode: 
+CallerIDName: <unknown>
+CallerIDNum: 73953449054
+Channel: SIP/i-73952706106-irk-dsi-inbound-register1-00000aa3
+ChannelState: 0
+ChannelStateDesc: Down
+ConnectedLineName: <unknown>
+ConnectedLineNum: <unknown>
+Context: i-irk.voice.dsi.ru
+Exten: 73952706107
+Language: en
+Linkedid: 1545382797.3400
+Priority: 1
+Privilege: call,all
+Uniqueid: 1545382797.3400
+
+21.12.2018 16:59:56
+
+Event: Newstate
+AccountCode: 
+CallerIDName: <unknown>
+CallerIDNum: 73953449054
+Channel: SIP/i-73952706106-irk-dsi-inbound-register1-00000aa3
+ChannelState: 4
+ChannelStateDesc: Ring
+ConnectedLineName: <unknown>
+ConnectedLineNum: <unknown>
+Context: i-irk.voice.dsi.ru
+Exten: 73952706107
+Language: ru_RU_cust19
+Linkedid: 1545382797.3400
+Priority: 1
+Privilege: call,all
+Uniqueid: 1545382797.3400
+
+21.12.2018 16:59:57
+
+Event: Newstate
+AccountCode: 
+CallerIDName: <unknown>
+CallerIDNum: 73953449054
+Channel: SIP/i-73952706106-irk-dsi-inbound-register1-00000aa3
+ChannelState: 6
+ChannelStateDesc: Up
+ConnectedLineName: <unknown>
+ConnectedLineNum: <unknown>
+Context: sip-locals
+Exten: 001238500
+Language: ru_RU_cust19
+Linkedid: 1545382797.3400
+Priority: 6
+Privilege: call,all
+Uniqueid: 1545382797.3400
+

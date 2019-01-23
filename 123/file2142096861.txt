@@ -1,0 +1,48 @@
+te: 0
+DestChannelStateDesc: Down
+DestConnectedLineName: 3954531592
+DestConnectedLineNum: 73954531592
+DestContext: sip-locals-callPermissions
+DestExten: 614
+DestLanguage: ru_RU_cust19
+DestLinkedid: 1545195084.28973
+DestPriority: 1
+DestUniqueid: 1545195263.29000
+DialStatus: CANCEL
+Exten: 614
+Language: ru_RU_cust19
+Linkedid: 1545195084.28973
+Priority: 4
+Privilege: call,all
+Uniqueid: 1545195263.28999
+
+Event: ExtensionStatus
+Context: sip-locals
+Exten: 614
+Hint: SIP/614&SIP/614_webrtc&SIP/614p1
+Privilege: call,all
+Status: 0
+StatusText: Idle
+
+Event: Hangup
+AccountCode: 
+CallerIDName: Golubcov Dem`jan
+CallerIDNum: 614
+Cause: 26
+Cause-txt: Answered elsewhere
+Channel: SIP/614-000023f1
+ChannelState: 0
+ChannelStateDesc: Down
+ConnectedLineName: 3954531592
+ConnectedLineNum: 73954531592
+Context: sip-locals-callPermissions
+Exten: 614
+Language: ru_RU_cust19
+Linkedid: 1545195084.28973
+Priority: 1
+Privilege: call,all
+Uniqueid: 1545195263.29000
+
+Event: Hangup
+AccountCode: 
+CallerIDN

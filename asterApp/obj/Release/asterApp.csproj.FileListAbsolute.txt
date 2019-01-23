@@ -1,0 +1,7 @@
+D:\projects\asterApp\asterApp\bin\Release\asterApp.exe.config
+D:\projects\asterApp\asterApp\bin\Release\asterApp.exe
+D:\projects\asterApp\asterApp\bin\Release\asterApp.pdb
+D:\projects\asterApp\asterApp\obj\Release\asterApp.csproj.CoreCompileInputs.cache
+D:\projects\asterApp\asterApp\obj\Release\asterApp.exe
+D:\projects\asterApp\asterApp\obj\Release\asterApp.pdb
+D:\projects\asterApp\asterApp\obj\Release\asterApp.csprojAssemblyReference.cache

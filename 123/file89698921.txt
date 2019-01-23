@@ -1,0 +1,42 @@
+Event: ExtensionStatus
+Context: sip-locals
+Exten: 129
+Hint: SIP/129&SIP/129_webrtc
+Privilege: call,all
+Status: 1
+StatusText: InUse
+
+Event: Newchannel
+AccountCode: 
+CallerIDName: Stanevich Anton
+CallerIDNum: 129
+Channel: SIP/129-000023b1
+ChannelState: 0
+ChannelStateDesc: Down
+ConnectedLineName: <unknown>
+ConnectedLineNum: <unknown>
+Context: sip-locals-callPermissions
+Exten: **120
+Language: en
+Linkedid: 1545193724.28894
+Priority: 1
+Privilege: call,all
+Uniqueid: 1545193724.28894
+
+Event: Newstate
+AccountCode: 
+CallerIDName: Stanevich Anton
+CallerIDNum: 129
+Channel: SIP/129-000023b1
+ChannelState: 4
+ChannelStateDesc: Ring
+ConnectedLineName: <unknown>
+ConnectedLineNum: <unknown>
+Context: sip-locals-callPermissions
+Exten: **120
+Language: ru_RU_cust19
+Linkedid: 1545193724.28894
+Priority: 1
+Privilege: call,all
+Uniqueid: 1545193724.28894
+

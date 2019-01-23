@@ -1,0 +1,18 @@
+Event: NewCallerid
+AccountCode: 
+CallerIDName: Berezhnoj Artem
+CallerIDNum: 88007751985
+Channel: SIP/163-000023bc
+ChannelState: 4
+ChannelStateDesc: Ring
+CID-CallingPres: 0 (Presentation Allowed, Not Screened)
+ConnectedLineName: <unknown>
+ConnectedLineNum: <unknown>
+Context: sub-outgoingInterfaceCommon
+Exten: s
+Language: ru_RU_cust19
+Linkedid: 1545194271.28905
+Priority: 3
+Privilege: call,all
+Uniqueid: 1545194271.28905
+
